@@ -1,0 +1,21 @@
+.moc
+Makefile
+.obj
+.ui
+qrc_*.cpp
+texstudio
+texstudio.pro.user
+texstudio.pri
+translation/.tx/
+.qmake.stash
+hg_revision.cpp
+src/git_revision.cpp
+cov-int/
+.qtc_clangd
+# ignore macOS compiling result
+git_revision.o
+texstudio.app/
+build*
+symbols-ng/gesymb-ng
+symbols-ng/gesymb-ng.o
+CMakeLists.txt.user
